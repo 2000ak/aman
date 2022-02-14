@@ -9,3 +9,4 @@ else:
             
       else:
             print("prime number")
+"palindrom is basic p" 
